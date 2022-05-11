@@ -10,6 +10,8 @@ public class GitHubClass {
 		
 		System.out.println(c);
 		
+		
+		System.out.println("This is edited version");
 	}
 
 }
