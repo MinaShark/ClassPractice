@@ -12,6 +12,7 @@ public class GitHubClass {
 		
 		
 		System.out.println("This is edited version");
+		// this changes is from remote repository
 	}
 
 }
