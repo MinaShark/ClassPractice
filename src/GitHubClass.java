@@ -14,7 +14,7 @@ public class GitHubClass {
 		System.out.println("This is edited version");
 		// this changes is from remote repository
 		
-		// i dont know why it is again stuborn and it is not working
+		// i dont know why it is again stuborn and it is not working smile
 	}
 
 }
